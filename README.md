@@ -1,0 +1,2 @@
+# AdvancedCubiclesAndCompromises
+This is all the material to run an Advanced Cubicles &amp; Compromises Table Top excercises at an organization. This repository is designed to provide scenarios that help educate and organization about modern and current cyber security risks that may face. Using these scenarios with the Advanced Cubicles and Compromises format will allow organizations to best prepare for potential incidents.
